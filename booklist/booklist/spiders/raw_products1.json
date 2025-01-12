@@ -1,0 +1,122 @@
+[
+    {
+        "product_name": "Frankenstein",
+        "price": "\u00a338.00",
+        "rating": "Two",
+        "availability": "In stock"
+    },
+    {
+        "product_name": "Forever Rockers (The Rocker ...",
+        "price": "\u00a328.80",
+        "rating": "Three",
+        "availability": "In stock"
+    },
+    {
+        "product_name": "Fighting Fate (Fighting #6)",
+        "price": "\u00a339.24",
+        "rating": "Three",
+        "availability": "In stock"
+    },
+    {
+        "product_name": "Emma",
+        "price": "\u00a332.93",
+        "rating": "Two",
+        "availability": "In stock"
+    },
+    {
+        "product_name": "Eat, Pray, Love",
+        "price": "\u00a351.32",
+        "rating": "Three",
+        "availability": "In stock"
+    },
+    {
+        "product_name": "Deep Under (Walker Security ...",
+        "price": "\u00a347.09",
+        "rating": "Five",
+        "availability": "In stock"
+    },
+    {
+        "product_name": "Choosing Our Religion: The ...",
+        "price": "\u00a328.42",
+        "rating": "Four",
+        "availability": "In stock"
+    },
+    {
+        "product_name": "Charlie and the Chocolate ...",
+        "price": "\u00a322.85",
+        "rating": "Three",
+        "availability": "In stock"
+    },
+    {
+        "product_name": "Charity's Cross (Charles Towne ...",
+        "price": "\u00a341.24",
+        "rating": "One",
+        "availability": "In stock"
+    },
+    {
+        "product_name": "Bright Lines",
+        "price": "\u00a339.07",
+        "rating": "Five",
+        "availability": "In stock"
+    },
+    {
+        "product_name": "Bridget Jones's Diary (Bridget ...",
+        "price": "\u00a329.82",
+        "rating": "One",
+        "availability": "In stock"
+    },
+    {
+        "product_name": "Bounty (Colorado Mountain #7)",
+        "price": "\u00a337.26",
+        "rating": "Four",
+        "availability": "In stock"
+    },
+    {
+        "product_name": "Blood Defense (Samantha Brinkman ...",
+        "price": "\u00a320.30",
+        "rating": "Three",
+        "availability": "In stock"
+    },
+    {
+        "product_name": "Bleach, Vol. 1: Strawberry ...",
+        "price": "\u00a334.65",
+        "rating": "Five",
+        "availability": "In stock"
+    },
+    {
+        "product_name": "Beyond Good and Evil",
+        "price": "\u00a343.38",
+        "rating": "One",
+        "availability": "In stock"
+    },
+    {
+        "product_name": "Alice in Wonderland (Alice's ...",
+        "price": "\u00a355.53",
+        "rating": "One",
+        "availability": "In stock"
+    },
+    {
+        "product_name": "Ajin: Demi-Human, Volume 1 ...",
+        "price": "\u00a357.06",
+        "rating": "Four",
+        "availability": "In stock"
+    },
+    {
+        "product_name": "A Spy's Devotion (The ...",
+        "price": "\u00a316.97",
+        "rating": "Five",
+        "availability": "In stock"
+    },
+    {
+        "product_name": "1st to Die (Women's ...",
+        "price": "\u00a353.98",
+        "rating": "One",
+        "availability": "In stock"
+    },
+    {
+        "product_name": "1,000 Places to See ...",
+        "price": "\u00a326.08",
+        "rating": "Five",
+        "availability": "In stock"
+    }
+]

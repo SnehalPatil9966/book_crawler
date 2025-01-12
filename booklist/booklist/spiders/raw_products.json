@@ -1,0 +1,122 @@
+[
+    {
+        "product_name": "A Light in the ...",
+        "price": "\u00a351.77",
+        "rating": "Three",
+        "availability": "In stock"
+    },
+    {
+        "product_name": "Tipping the Velvet",
+        "price": "\u00a353.74",
+        "rating": "One",
+        "availability": "In stock"
+    },
+    {
+        "product_name": "Soumission",
+        "price": "\u00a350.10",
+        "rating": "One",
+        "availability": "In stock"
+    },
+    {
+        "product_name": "Sharp Objects",
+        "price": "\u00a347.82",
+        "rating": "Four",
+        "availability": "In stock"
+    },
+    {
+        "product_name": "Sapiens: A Brief History ...",
+        "price": "\u00a354.23",
+        "rating": "Five",
+        "availability": "In stock"
+    },
+    {
+        "product_name": "The Requiem Red",
+        "price": "\u00a322.65",
+        "rating": "One",
+        "availability": "In stock"
+    },
+    {
+        "product_name": "The Dirty Little Secrets ...",
+        "price": "\u00a333.34",
+        "rating": "Four",
+        "availability": "In stock"
+    },
+    {
+        "product_name": "The Coming Woman: A ...",
+        "price": "\u00a317.93",
+        "rating": "Three",
+        "availability": "In stock"
+    },
+    {
+        "product_name": "The Boys in the ...",
+        "price": "\u00a322.60",
+        "rating": "Four",
+        "availability": "In stock"
+    },
+    {
+        "product_name": "The Black Maria",
+        "price": "\u00a352.15",
+        "rating": "One",
+        "availability": "In stock"
+    },
+    {
+        "product_name": "Starving Hearts (Triangular Trade ...",
+        "price": "\u00a313.99",
+        "rating": "Two",
+        "availability": "In stock"
+    },
+    {
+        "product_name": "Shakespeare's Sonnets",
+        "price": "\u00a320.66",
+        "rating": "Four",
+        "availability": "In stock"
+    },
+    {
+        "product_name": "Set Me Free",
+        "price": "\u00a317.46",
+        "rating": "Five",
+        "availability": "In stock"
+    },
+    {
+        "product_name": "Scott Pilgrim's Precious Little ...",
+        "price": "\u00a352.29",
+        "rating": "Five",
+        "availability": "In stock"
+    },
+    {
+        "product_name": "Rip it Up and ...",
+        "price": "\u00a335.02",
+        "rating": "Five",
+        "availability": "In stock"
+    },
+    {
+        "product_name": "Our Band Could Be ...",
+        "price": "\u00a357.25",
+        "rating": "Three",
+        "availability": "In stock"
+    },
+    {
+        "product_name": "Olio",
+        "price": "\u00a323.88",
+        "rating": "One",
+        "availability": "In stock"
+    },
+    {
+        "product_name": "Mesaerion: The Best Science ...",
+        "price": "\u00a337.59",
+        "rating": "One",
+        "availability": "In stock"
+    },
+    {
+        "product_name": "Libertarianism for Beginners",
+        "price": "\u00a351.33",
+        "rating": "Two",
+        "availability": "In stock"
+    },
+    {
+        "product_name": "It's Only the Himalayas",
+        "price": "\u00a345.17",
+        "rating": "Two",
+        "availability": "In stock"
+    }
+]
